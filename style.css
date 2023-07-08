@@ -1,0 +1,24 @@
+.banner-card{
+    position: relative;
+    margin-left: 120px;
+}
+.banner-card img{
+    max-width: 100%;
+    margin-right: 50px;
+    height: auto;
+}
+
+.banner-text{
+    position: absolute;
+    top: 25%;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.banner-text h4{
+    font-size: 44px;
+}
+.banner-text p{
+    font-size: 26px;
+}
